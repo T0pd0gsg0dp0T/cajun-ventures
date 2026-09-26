@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C2 Land Works - Land Clearing &amp; Excavation in Southeast Texas</title>
+    <link>https://c2landworks.com</link>
+    <description>Professional land clearing, excavation, and dirt work services in Southeast Texas. Tips, project updates, and industry insights from C2 Land Works.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Mar 2026 12:00:00 -0600</lastBuildDate>
+    <atom:link href="https://c2landworks.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Land Clearing Services in Southeast Texas</title>
+      <link>https://c2landworks.com/services.html#land-clearing</link>
+      <description>C2 Land Works provides professional land clearing services throughout Southeast Texas, including Winnie, Beaumont, Port Arthur, and surrounding areas. From residential lots to commercial acreage, we handle complete vegetation removal and site preparation.</description>
+      <pubDate>Sun, 23 Mar 2026 12:00:00 -0600</pubDate>
+      <guid>https://c2landworks.com/services.html#land-clearing</guid>
+    </item>
+    <item>
+      <title>Pond Construction and Restoration in Southeast Texas</title>
+      <link>https://c2landworks.com/services.html#ponds</link>
+      <description>Expert pond construction and restoration services by C2 Land Works. We build stock ponds, irrigation ponds, and recreational ponds with proper slopes, depth, and drainage for Southeast Texas properties.</description>
+      <pubDate>Sun, 23 Mar 2026 12:00:00 -0600</pubDate>
+      <guid>https://c2landworks.com/services.html#ponds</guid>
+    </item>
+    <item>
+      <title>Frequently Asked Questions About Land Clearing</title>
+      <link>https://c2landworks.com/faq.html</link>
+      <description>Common questions about land clearing permits, costs, timelines, and services in Southeast Texas answered by C2 Land Works.</description>
+      <pubDate>Sun, 23 Mar 2026 12:00:00 -0600</pubDate>
+      <guid>https://c2landworks.com/faq.html</guid>
+    </item>
+  </channel>
+</rss>
