@@ -1,4 +1,4 @@
-// C2 Land Works - Main JavaScript
+// Cajun Ventures - Main JavaScript
 // ================================
 
 document.addEventListener('DOMContentLoaded', function() {

@@ -1,6 +1,6 @@
-# C2 Land Works Website
+# Cajun Ventures Website
 
-Professional static website for C2 Land Works, a land clearing and excavation company based in Winnie, TX.
+Professional static website for Cajun Ventures, a land clearing and excavation company based in Winnie, TX.
 
 ## Features
 
@@ -103,7 +103,7 @@ Forms POST to `/` with Netlify Forms backend:
 
 ## Business Information
 
-- **Company**: C2 Land Works
+- **Company**: Cajun Ventures
 - **Phone**: (409) 617-1161
 - **Email**: c2landworks@yahoo.com
 - **Owner**: Tony Cammareri
@@ -121,4 +121,4 @@ Forms POST to `/` with Netlify Forms backend:
 
 ## License
 
-Proprietary - For C2 Land Works only.
+Proprietary - For Cajun Ventures only.
