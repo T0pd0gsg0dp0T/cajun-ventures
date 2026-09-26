@@ -496,17 +496,17 @@ function initCalculator() {
     if (!calculator) return;
 
     const serviceSelect = calculator.querySelector('#calc-service');
-    const acreageInput = calculator.querySelector('#calc-acreage');
+    const quantityInput = calculator.querySelector('#calc-quantity');
     const resultDisplay = calculator.querySelector('.calculator-result-value');
     
-    if (!serviceSelect || !acreageInput || !resultDisplay) return;
+    if (!serviceSelect || !quantityInput || !resultDisplay) return;
 
     // Base prices per acre (these are estimates for display purposes)
     const basePrices = {
         'land-clearing': { min: 1500, max: 3500 },
         'brush-hogging': { min: 150, max: 400 },
-        'excavation': { min: 2000, max: 5000 },
-        'grading': { min: 1000, max: 2500 },
+        'catering': { min: 2000, max: 5000 },
+        'processing': { min: 1000, max: 2500 },
         'drainage': { min: 1500, max: 4000 },
         'house-pad': { min: 3000, max: 8000 },
         'driveway': { min: 2000, max: 6000 },
@@ -517,9 +517,9 @@ function initCalculator() {
 
     function calculateEstimate() {
         const service = serviceSelect.value;
-        const acreage = parseFloat(acreageInput.value) || 0;
+        const quantity = parseFloat(quantityInput.value) || 0;
         
-        if (!service || acreage <= 0) {
+        if (!service || quantity <= 0) {
             resultDisplay.textContent = '$0 - $0';
             return;
         }
@@ -530,13 +530,13 @@ function initCalculator() {
             return;
         }
 
-        // Calculate with diminishing rate for larger acreage
-        let multiplier = acreage;
-        if (acreage > 5) {
-            multiplier = 5 + (acreage - 5) * 0.8;
+        // Calculate with diminishing rate for larger quantity
+        let multiplier = quantity;
+        if (quantity > 5) {
+            multiplier = 5 + (quantity - 5) * 0.8;
         }
-        if (acreage > 20) {
-            multiplier = 5 + 15 * 0.8 + (acreage - 20) * 0.6;
+        if (quantity > 20) {
+            multiplier = 5 + 15 * 0.8 + (quantity - 20) * 0.6;
         }
 
         const minTotal = Math.round(prices.min * multiplier / 100) * 100;
@@ -546,7 +546,7 @@ function initCalculator() {
     }
 
     serviceSelect.addEventListener('change', calculateEstimate);
-    acreageInput.addEventListener('input', calculateEstimate);
+    quantityInput.addEventListener('input', calculateEstimate);
 }
 
 // Lightbox

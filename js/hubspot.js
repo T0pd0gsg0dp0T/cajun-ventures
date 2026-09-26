@@ -46,7 +46,7 @@ const HubSpotConfig = {
  * RECOMMENDED CUSTOM PROPERTIES TO CREATE IN HUBSPOT:
  * - service_needed (Single-line text) - Type of service requested
  * - property_location (Single-line text) - Property address/city
- * - property_acreage (Single-line text) - Size in acres
+ * - property_quantity (Single-line text) - Size in acres
  * - land_condition (Dropdown) - Current land condition
  * - project_timeline (Dropdown) - When work is needed
  * - preferred_contact (Dropdown) - Phone/Text/Email
@@ -69,7 +69,7 @@ const FieldMappings = {
         'phone': 'phone',              // Standard HubSpot property
         'location': 'property_location', // CUSTOM: Create property_location in HubSpot
         'service': 'service_needed',   // CUSTOM: Create service_needed in HubSpot
-        'acreage': 'property_acreage', // CUSTOM: Create property_acreage in HubSpot
+        'quantity': 'property_quantity', // CUSTOM: Create property_quantity in HubSpot
         'condition': 'land_condition', // CUSTOM: Create land_condition in HubSpot
         'timeline': 'project_timeline', // CUSTOM: Create project_timeline in HubSpot
         'description': 'message',      // Standard HubSpot property

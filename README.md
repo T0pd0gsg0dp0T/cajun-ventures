@@ -1,6 +1,6 @@
 # Cajun Ventures Website
 
-Professional static website for Cajun Ventures, a land clearing and excavation company based in Winnie, TX.
+Professional static website for Cajun Ventures, a premium meats and catering company based in Winnie, TX.
 
 ## Features
 

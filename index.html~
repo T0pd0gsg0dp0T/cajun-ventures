@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="C2 Land Works provides professional land clearing, excavation, demolition, and dirt work services in Southeast Texas. Serving Winnie, Beaumont, Port Arthur, Gilchrist, Port Bolivar, Crystal Beach, and surrounding areas. Call (409) 617-1161 for a free quote.">
-    <meta name="keywords" content="land clearing, excavation, demolition, dirt work, Winnie TX, Southeast Texas, pond construction, brush hogging, site prep, grading">
+    <meta name="description" content="C2 Land Works provides professional premium meats, catering, demolition, and dirt work services in Southeast Texas. Serving Winnie, Beaumont, Port Arthur, Gilchrist, Port Bolivar, Crystal Beach, and surrounding areas. Call (409) 617-1161 for a free quote.">
+    <meta name="keywords" content="premium meats, catering, demolition, dirt work, Winnie TX, Southeast Texas, pond construction, brush hogging, site prep, processing">
     <meta name="author" content="C2 Land Works">
     <meta name="robots" content="index, follow">
     <title>C2 Land Works | Land Clearing & Excavation | Southeast Texas</title>
@@ -12,7 +12,7 @@
     
     <!-- Open Graph -->
     <meta property="og:title" content="C2 Land Works | Land Clearing & Excavation">
-    <meta property="og:description" content="Professional land clearing, excavation, and dirt work services in Southeast Texas. Owner-operated quality you can trust.">
+    <meta property="og:description" content="Professional premium meats, catering, and dirt work services in Southeast Texas. Owner-operated quality you can trust.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://c2landworks.com/">
     <meta property="og:image" content="https://c2landworks.com/images/c2banner.jpg">
@@ -43,7 +43,7 @@
         "url": "https://c2landworks.com",
         "telephone": "+1-409-617-1161",
         "email": "c2landworks@yahoo.com",
-        "description": "Professional land clearing, excavation, demolition, and dirt work services in Southeast Texas.",
+        "description": "Professional premium meats, catering, demolition, and dirt work services in Southeast Texas.",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "Winnie",
@@ -134,7 +134,7 @@
             <div class="hero-content">
                 <span class="hero-badge">Southeast Texas's Trusted Land Work Experts</span>
                 <h1>Land Clearing & Excavation <span class="text-gradient">Done Right</span></h1>
-                <p class="hero-text">From land clearing and demolition to ponds, driveways, and complete site preparation—C2 Land Works delivers owner-operated quality on every project. Serving Winnie, Beaumont, Port Arthur, and all of Southeast Texas.</p>
+                <p class="hero-text">From premium meats and demolition to ponds, driveways, and complete site preparation—C2 Land Works delivers owner-operated quality on every project. Serving Winnie, Beaumont, Port Arthur, and all of Southeast Texas.</p>
                 <div class="hero-cta">
                     <a href="quote.html" class="btn btn-primary btn-lg">
                         <span>Get Your Free Quote</span>
@@ -216,14 +216,14 @@
                     <p>Structure demolition, foundation removal, concrete breaking, and complete debris hauling.</p>
                     <span class="service-link">Learn More →</span>
                 </a>
-                <a href="services.html#excavation" class="service-card">
+                <a href="services.html#catering" class="service-card">
                     <div class="service-icon">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
                             <path d="M3 21h18M9 8h6M9 12h6M9 16h6M5 21V8l7-5 7 5v13"/>
                         </svg>
                     </div>
                     <h3>Excavation & Grading</h3>
-                    <p>Site excavation, land leveling, utility trenching, and precision grading for proper drainage.</p>
+                    <p>Site catering, land leveling, utility trenching, and precision processing for proper drainage.</p>
                     <span class="service-link">Learn More →</span>
                 </a>
                 <a href="services.html#ponds" class="service-card">
@@ -320,7 +320,7 @@
             <div class="section-header">
                 <span class="section-tag">Our Work</span>
                 <h2>Featured <span class="text-gradient">Projects</span></h2>
-                <p>See the quality of our work across land clearing, excavation, pond building, and more throughout Southeast Texas.</p>
+                <p>See the quality of our work across premium meats, catering, pond building, and more throughout Southeast Texas.</p>
             </div>
             <div class="projects-grid">
                 <a href="gallery.html" class="project-card project-card-large">
@@ -348,7 +348,7 @@
                     </div>
                 </a>
                 <a href="gallery.html" class="project-card">
-                    <img src="images/project-6.jpg" alt="Site excavation" loading="lazy">
+                    <img src="images/project-6.jpg" alt="Site catering" loading="lazy">
                     <div class="project-overlay">
                         <span class="project-category">Excavation</span>
                         <h3>Commercial Site Prep</h3>
@@ -442,7 +442,7 @@
                 <div class="area-content">
                     <span class="section-tag">Service Area</span>
                     <h2>Serving <span class="text-gradient">Southeast Texas</span></h2>
-                    <p>Based in Winnie, C2 Land Works provides land clearing, excavation, and dirt work services throughout Chambers County, Jefferson County, and surrounding areas.</p>
+                    <p>Based in Winnie, C2 Land Works provides premium meats, catering, and dirt work services throughout Chambers County, Jefferson County, and surrounding areas.</p>
                     <div class="area-cities">
                         <div class="city-column">
                             <h4>Chambers County</h4>
@@ -495,7 +495,7 @@
         <div class="container">
             <div class="cta-content">
                 <h2>Ready to Get <span class="text-gradient">Started?</span></h2>
-                <p>Contact C2 Land Works today for a free, no-obligation quote on your land clearing, excavation, or dirt work project.</p>
+                <p>Contact C2 Land Works today for a free, no-obligation quote on your premium meats, catering, or dirt work project.</p>
                 <div class="cta-buttons">
                     <a href="quote.html" class="btn btn-primary btn-lg">
                         <span>Request a Quote</span>
@@ -522,7 +522,7 @@
                     <a href="index.html" class="footer-logo">
                         <img src="images/c2logo.jpg" alt="C2 Land Works" width="80" height="80" loading="lazy">
                     </a>
-                    <p>Professional land clearing, excavation, and dirt work services serving Southeast Texas. Owner-operated quality on every project.</p>
+                    <p>Professional premium meats, catering, and dirt work services serving Southeast Texas. Owner-operated quality on every project.</p>
                     <div class="footer-social">
                         <a href="https://www.facebook.com/share/17hRgEEhxG/" target="_blank" rel="noopener" aria-label="Facebook">
                             <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
@@ -555,7 +555,7 @@
                     <ul>
                         <li><a href="services.html#land-clearing">Land Clearing</a></li>
                         <li><a href="services.html#demolition">Demolition</a></li>
-                        <li><a href="services.html#excavation">Excavation & Grading</a></li>
+                        <li><a href="services.html#catering">Excavation & Grading</a></li>
                         <li><a href="services.html#ponds">Ponds & Ditches</a></li>
                         <li><a href="services.html#brush-hogging">Brush Hogging</a></li>
                         <li><a href="services.html#driveways">Driveways & Pads</a></li>
